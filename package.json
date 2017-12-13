@@ -1,6 +1,6 @@
 {
     "name": "ng2-string-helper",
-    "version": "0.0.1",
+    "version": "1.0.8",
     "description": "Angular2+ String Helper",
     "main": "dist/index",
     "typings": "dist/index",
