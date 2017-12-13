@@ -1,34 +1,33 @@
 {
-    "name": "ng2-string-helper",
-    "version": "1.0.8",
-    "description": "Angular2+ String Helper",
-    "main": "dist/index",
-    "typings": "dist/index",
-    "scripts": {
-      "prepublishOnly": "npm run compile",
-      "compile": "npm run clean && tsc -p .",
-      "watch": "tsc -w -p .",
-      "clean": "rm -rf dist"
-    },
-    "bugs": {
-      "url": "http://github.com/cmajid/ng2-string-helper/issues"
-    },
-    "repository": {
-      "type": "git",
-      "url": "http://github.com/cmajid/ng2-string-helper.git"
-    },
-    "keywords": [
-      "angular2 ng2 string helper utility"
-    ],
-    "author": "Majid Shahmohammadi <majid.mjh@gmail.com>",
-    "license": "MIT",
-    "devDependencies": {
-      "@types/node": "^8.0.0",
-      "typescript": "^2.6.1"
-    },
-    "files": [
-      "dist/index.js",
-      "dist/index.d.ts",
-      "dist/lib"
-    ]
-  }
+  "name": "ng2-string-helper",
+  "version": "1.0.16",
+  "description": "Angular2+ String Helper",
+  "main": "dist/index",
+  "typings": "dist/index",
+  "scripts": {
+    "compile": "npm run clean && tsc -p .",
+    "watch": "tsc -w -p .",
+    "clean": "rm -rf dist"
+  },
+  "bugs": {
+    "url": "http://github.com/cmajid/ng2-string-helper/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/cmajid/ng2-string-helper.git"
+  },
+  "keywords": [
+    "angular2 ng2 string helper utility"
+  ],
+  "author": "Majid Shahmohammadi <majid.mjh@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^8.0.0",
+    "typescript": "^2.6.1"
+  },
+  "files": [
+    "dist/index.js",
+    "dist/index.d.ts",
+    "dist/lib"
+  ]
+}
