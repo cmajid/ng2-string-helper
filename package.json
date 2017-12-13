@@ -17,7 +17,11 @@
     "url": "http://github.com/cmajid/ng2-string-helper.git"
   },
   "keywords": [
-    "angular2 ng2 string helper utility"
+    "angular2",
+    "ng2",
+    "string",
+    "helper",
+    "utility"
   ],
   "author": "Majid Shahmohammadi <majid.mjh@gmail.com>",
   "license": "MIT",
